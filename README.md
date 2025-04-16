@@ -1,6 +1,10 @@
 ![logo](https://github.com/SohanRout2023/SohanRout2023/blob/main/Software%20Engineer%20Resume%20Website%20in%20Black%20and%20White%20Simple%20and%20Minimal%20Style.png)
-<h1 align="center">Hi 👋, I'm Sohan Kumar Rout</h1>
+<h1 align="center">Hi  I'm Sohan Kumar Rout </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 <h3 align="center">A passionate SDE-1 From Bhubaneswar,India</h3>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+Computer+Science+Student,;A+Full-Stack+Developer,;Learning+and+Exploring+AR/VR+Frameworks,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 
 <img align ="right" alt ="coading" width="400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
